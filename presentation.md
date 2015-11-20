@@ -392,6 +392,7 @@ end
 
 [https://github.com/fractalsoft/fractalsoft.org](https://github.com/fractalsoft/fractalsoft.org)
 
+Note: How bot can avoid these methods? Read file robots.txt file, send requests from different end-points in TOR, change User Agent, change session, be polite and useful.
 
 
 # Links
@@ -401,6 +402,7 @@ end
 * [Fail2Ban](http://www.fail2ban.org/wiki/index.php/Main_Page)
 * [Robots meta tag and X-Robots-Tag HTTP header specifications](https://developers.google.com/webmasters/control-crawl-index/docs/robots_meta_tag)
 * [Spam Poison](http://spampoison.com/)
+* [Scrapy - Python web scraping framework](https://github.com/scrapy/scrapy)
 
 
 
